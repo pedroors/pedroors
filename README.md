@@ -1,9 +1,12 @@
 ### Olá mundo! 👋 Eu sou Pedro.
 
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroors&theme=vue-dark&layout=compact" width="400">
   <img src="https://streak-stats.demolab.com?user=pedroors&theme=vue-dark" width="400">  
 </div>
+  
+  ##
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -13,14 +16,3 @@
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Pedro-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> 
 </div>
-  
-  ##
-  
-  https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
-  
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
