@@ -1,11 +1,8 @@
 ### Olá mundo! 👋 Eu sou Pedro.
 
-<div align="center" style="display:flex; justify-content: space-around;">
-  <a href="https://github.com/pedroors">
-    <div style="display:flex; justify-content: space-around;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroors&theme=vue-dark&layout=compact" width="400">
-      <img src="https://streak-stats.demolab.com?user=pedroors&theme=vue-dark" width="400">
-    </div>
+<div style="display:flex; justify-content: space-around;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroors&theme=vue-dark&layout=compact" width="400">
+  <img src="https://streak-stats.demolab.com?user=pedroors&theme=vue-dark" width="400">  
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
