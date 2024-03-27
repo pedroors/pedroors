@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/pedroors">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroors&theme=vue-dark&show_icons=true)
+  app/api?username=pedroors&theme=vue-dark&show_icons=true
   [![GitHub Streak](https://streak-stats.demolab.com?user=pedroors&theme=vue-dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroors&theme=vue-dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 </div>
