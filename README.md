@@ -19,4 +19,5 @@
   
   ##
   
-  <img src="https://github.com/pedroors/pedroors/blob/output/github-contribution-grid-snake.svg">
+  [![Snake animation](https://github.com/pedroors/pedroors/blob/output/github-contribution-grid-snake.svg)](https://github.com/pedroors)
+
