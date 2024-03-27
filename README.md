@@ -2,9 +2,11 @@
 
 <div align="center">
   <a href="https://github.com/pedroors">
-    <img src="https://github-readme-stats.vercel.app/api?username=pedroors&show_icons=true&theme=vue-dark">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroors&theme=vue-dark&layout=donut">
-    <img src="https://streak-stats.demolab.com?user=pedroors&theme=vue-dark&hide_border=true">
+    <div style="display:flex; justify-content: space-around;">
+      <img src="https://github-readme-stats.vercel.app/api?username=pedroors&show_icons=true&theme=vue-dark" width="400">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroors&theme=vue-dark&layout=compact" width="400">
+      <img src="https://streak-stats.demolab.com?user=pedroors&theme=vue-dark" width="400">
+    </div>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
