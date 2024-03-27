@@ -1,6 +1,6 @@
 ### Olá mundo! 👋 Eu sou Pedro.
 
-<div style="display:flex; justify-content: space-around;">
+<div style="display: flex; justify-content: space-around;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroors&theme=vue-dark&layout=compact" width="400">
   <img src="https://streak-stats.demolab.com?user=pedroors&theme=vue-dark" width="400">  
 </div>
