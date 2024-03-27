@@ -19,4 +19,4 @@
   
   ##
   
-  ![Snake animation](https://github.com/pedroors/pedroors/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://github.com/pedroors/pedroors/blob/output/github-contribution-grid-snake.svg">
