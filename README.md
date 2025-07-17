@@ -1,6 +1,10 @@
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedroors&theme=dark&show_icons=true&hide_border=true&count_private=true" width="400" style="margin-right: 10px; min-height: 300px; object-fit: contain;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroors&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=8" width="400" style="min-height: 300px; object-fit: contain;">
+<div style="display: flex; gap: 10px;">
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api?username=pedroors&theme=dark&show_icons=true&hide_border=true&count_private=true" width="100%" style="height: 100%; object-fit: cover;">
+  </div>
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroors&theme=dark&show_icons=true&hide_border=true&layout=compact" width="100%" style="height: 100%; object-fit: cover;">
+  </div>
 </div>
   
   ##
