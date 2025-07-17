@@ -1,5 +1,5 @@
 <div style="display: flex;">
-  <img src="![pedroors's Stats](https://github-readme-stats.vercel.app/api?username=pedroors&theme=dark&show_icons=true&hide_border=true&count_private=true)" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=pedroors&theme=dark&show_icons=true&hide_border=true&count_private=true" width="400">
   <img src="https://streak-stats.demolab.com?user=pedroors&theme=vue-dark" width="400">  
 </div>
   
